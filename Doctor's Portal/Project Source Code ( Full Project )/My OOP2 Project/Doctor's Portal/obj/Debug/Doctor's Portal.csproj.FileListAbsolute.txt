@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\bin\Debug\Doctor's Portal.exe.config
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\bin\Debug\Doctor's Portal.exe
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\bin\Debug\Doctor's Portal.pdb
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor's Portal.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.Login.resources
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor's Portal.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor's Portal.exe
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor's Portal.pdb
+c:\users\user\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.Doctor_s_Panel.resources
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.Admin_Panel.resources
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\bin\Debug\Hospital Database.mdf
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\bin\Debug\Hospital Database_log.ldf
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.All_Medicine_List.resources
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.All_Disease_List.resources
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.All_Symptom_List.resources
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.All_Test_List.resources
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.Registration_Form.resources
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.Unregister_Form.resources
+C:\Users\User\documents\visual studio 2012\Projects\My OOP2 Project\Doctor's Portal\obj\Debug\Doctor_s_Portal.Doctor_s_Profile.resources
