@@ -15,6 +15,7 @@ Database                        : SQL Server (.mdf), using Linq, Lambda</b>
 <h2> How to run the project : </h2>
 
 1. Import the database files into <b>Microsoft Sql Server (Both file - .mdf & .ldf)</b>.
+2. If there's security error while importing, follow this : https://www.youtube.com/watch?v=tx2WhE3lQKE&t
 2. Setup the <b>"Exe"</b> version or open the <b>"Source Code"</b> in Visual studio.
 
     Enjoy !!
